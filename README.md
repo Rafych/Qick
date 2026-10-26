@@ -1,2 +1,2 @@
 # Qick
-A Rust-based penetration testing toolkit for security assessments.
+An autonomous AI-powered penetration testing framework written in Rust.
